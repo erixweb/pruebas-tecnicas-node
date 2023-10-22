@@ -1,0 +1,9 @@
+{
+	"type": "module",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"devDependencies": {
+		"standard": "17.1.0"
+	}
+}
